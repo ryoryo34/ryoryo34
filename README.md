@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently motivated data science, deep learning and reinforcement learning.
+My Portfolio: https://ryoryo3434.github.io/Portfolio/
